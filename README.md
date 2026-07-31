@@ -5,7 +5,7 @@
 <h3> Desenvolvedor Back-End | Estudante de Sistemas para Internet </h3>
 
 <p>
-Atualmente no 4º semestre no Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) e atuando como estagiário de TI na Secretaria de Estado de Assistência Social e Cidadania (SETASC). Meu foco principal é na construção de soluções Back-End e estruturação de bancos de dados.
+Atualmente no 5º semestre no Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) e atuando como estagiário de TI na Secretaria de Estado de Assistência Social e Cidadania (SETASC). Meu foco principal é na construção de soluções Back-End e estruturação de bancos de dados.
 </p>
 
 ---
