@@ -38,4 +38,16 @@ Atualmente no 5º semestre no Instituto Federal de Educação, Ciência e Tecnol
 
 ---
 
+## Onde me encontrar
+
+<a href="https://www.linkedin.com/in/luanhenriquerds/" target="_blank">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/social%20icons/linkedin.svg" width="70" alt="Linkedin"/>
+</a>
+<a href="mailto:luanhenriquehdia@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/gmail.svg" width="70" alt="Gmail"/>
+</a>
+<a href="http://lattes.cnpq.br/9435934695860012" target="_blank">
+  <img src="https://img.icons8.com/ios/50/000000/document.png" width="70" alt="Lattes"/>
+</a>
+
 </div>
